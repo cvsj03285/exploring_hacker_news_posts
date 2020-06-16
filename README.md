@@ -1,4 +1,4 @@
-# practice02-exploring_hacker_news_posts
+# Guided Project - exploring_hacker_news_posts
 
 In this project, we'll work with a data set of submissions to popular technology site Hacker News.
 
